@@ -21,3 +21,8 @@ ___
 * [595 - Big Countries ](https://leetcode.com/problems/big-countries/) - [Solution](/01_Select/03_Big%20Countries.sql)
 * [1148 - Article Views I ](https://leetcode.com/problems/article-views-i) - [Solution](/01_Select/04_Article%20Views%20I%20.sql)
 * [1683 - Invalid Tweets ](https://leetcode.com/problems/invalid-tweets/) - [Solution](/01_Select/05_Invalid%20Tweets.sql)
+
+
+___
+### Basic Aggregate Functions
+* [ 620 - Not Boring Movies ](https://leetcode.com/problems/not-boring-movies) - [Solution](/03_Basic_Aggregate_Functions/01_Not%20Boring%20Movies.sql)
